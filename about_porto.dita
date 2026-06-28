@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="about_porto">
+    <title>About Porto</title>
+    <shortdesc>Porto is city that is located in the North of Portugal known for its breathtaking landscapes, historic buildings, bridges, food, and port wine culture.</shortdesc>
+    <prolog>
+        <author>Inês Castro Gonçalves</author>
+        <critdates>
+            <created date="13-05-2026"/>
+            <revised modified="15-05-2026"/>
+        </critdates>
+        <metadata>
+        <audience type="first-time-visitors"/>
+            <prodinfo>
+                <prodname>Practical travel guide to Porto</prodname>
+            <vrmlist>
+                <vrm version="1" release="0"/>
+            </vrmlist>
+            </prodinfo>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Porto is the second biggest city in Portugal and one of the country's most popular travel
+            destinations. When you have the opportunity to go there, you will appreciate the Douro
+            River. This city is also known for its traditional culture and architecture.</p>
+        <p>People visiting for the first time the city have a diversity of places to go. Popular
+            areas include Ribeira, the Dom Luis I Bridge, the Clérigos Tower, São Bento Station, and
+            the frontier with Vila Nova de Gaia, the closest city.</p>
+        <p>One of the most beautiful areas is <keyword keyref="porto_center"/>, which is UNESCO World Heritage.</p>
+        <fig>
+            <title>Ribeira</title>
+            <image keyref="porto_ribeira">
+                <alt>="View of the Ribeira in Porto near the Douro River."</alt>
+            </image>
+        </fig>
+        <p>Porto is also known for its strong local identity. Visitors can experience Portuguese
+            food, admire azulejo titlework and explore narrow streets.</p>
+        <p>This guide focuses on practical information to help people plan a simple and enjoyable trip to the city of tradition.</p>
+    </conbody>
+</concept>
