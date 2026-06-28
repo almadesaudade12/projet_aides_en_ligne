@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="porto_metro_zones_for_visitors">
+    <title>Porto metro zones for visitors</title>
+    <shortdesc>Use this reference to understand common Porto metro zones for typical visitor trips.</shortdesc>
+    <prolog>
+        <author>Inês Castro Gonçalves</author>
+        <critdates>
+            <created date="13-05-2026"/>
+            <revised modified="15-05-2026"/>
+        </critdates>
+        <metadata>
+            <audience type="first-time-visitors"/>
+            <prodinfo>
+                <prodname>Practical travel guide to Porto</prodname>
+                <vrmlist>
+                    <vrm version="1" release="0"/>
+                </vrmlist>
+            </prodinfo>
+        </metadata>
+    </prolog>
+    <refbody>
+        <section>
+            <title>Common metro trips</title>
+            <fig>
+                <title>Metro going through the bridge</title>
+                <image keyref="porto_metro">
+                    <alt>The Porto metro is yellow.</alt>
+                </image>
+            </fig>
+            <simpletable>
+                <sthead>
+                    <stentry>Trip</stentry>
+                    <stentry>Typical zone</stentry>
+                    <stentry>Visitor zone</stentry>
+                </sthead>
+                <strow>
+                    <stentry>Airport to Trindade</stentry>
+                    <stentry>Z4</stentry>
+                    <stentry>Useful for reaching the city center from Porto airport.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Trindade to São Bento</stentry>
+                    <stentry>Z2</stentry>
+                    <stentry>Useful for reaching the historic center.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Bolhão to Casa da Música</stentry>
+                    <stentry>Z2</stentry>
+                    <stentry>Useful for visiting cultural areas outside the old center.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Trindade to Jardim do Morro</stentry>
+                    <stentry>Z2</stentry>
+                    <stentry>Useful for crossing to Vila Nova de Gaia and viewing the river.</stentry>
+                </strow>
+                <strow>
+                    <stentry>City center to Matosinhos</stentry>
+                    <stentry>Z3</stentry>
+                    <stentry>Useful for visiting the beach or seafood restaurants.</stentry>
+                </strow>
+            </simpletable>
+        </section>
+    </refbody>
+</reference>
