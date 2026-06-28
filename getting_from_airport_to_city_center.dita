@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="getting_from_airport_to_city_center" audience="visitor" product="porto-guide">
+    <title>Getting from Porto airport to the city center</title>
+    <shortdesc>Use the metro to go from the airport to the center of Porto easily</shortdesc>
+    <prolog>
+        <author>Inês Castro Gonçalves</author>
+        <critdates>
+            <created date="13-05-2026"/>
+            <revised modified="15-05-2026"/>
+        </critdates>
+        <metadata>
+            <audience type="first-time-visitors"/>
+            <prodinfo>
+                <prodname>Practical travel guide to Porto</prodname>
+                <vrmlist>
+                    <vrm version="1" release="0"/>
+                </vrmlist>
+            </prodinfo>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>Porto airport, called Francisco Sá Carneiro airport, is connected to the city center
+                by metro. It is usually one of the easiest options for first-time visitors.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Follow the signs inside the airport and look for the metro line E (purple
+                    color).</cmd>
+            </step>
+            <step>
+                <cmd>Buy an Andante ticket from the ticket machine. For your information, if the person is under 24 years old, they can buy a pass for 3 euros and take transportation for free whether it is in Porto or Vila Nova de Gaia.</cmd>
+            </step>
+            <step>
+                <cmd>Validate the ticket before entering the station.</cmd>
+            </step>
+            <step>
+                <cmd>Take the metro line toward Estádio do Dragão to go to the city centre.</cmd>
+            </step>
+            <step>
+                <cmd>Get off at a central station such as Trindade or Bolhão.</cmd>
+            </step>
+        </steps>
+        <result>
+            <p>You arrive in the heart of the city and can continue to your accommodation on foot, by metro, or by uber.</p>
+        </result>
+    </taskbody>
+</task>
